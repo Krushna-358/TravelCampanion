@@ -1,0 +1,66 @@
+[ {
+  "name" : "jaggu",
+  "password" : "$2a$12$N8AfhyePssIF8bl5YJO3GOE/Oq91gaUYaF0.QzRklTykOB27B37su",
+  "userName" : "jagg427",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "meena",
+  "password" : "$2a$12$rK2UXyfsUFTXyR99t9Id0uhRcdl7wXtbq6Zq/9FgxyLdKqex7jWge",
+  "userName" : "meena87",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "ravi",
+  "password" : "$2a$12$0y0W7zMQAFPMmf1fCMYK6uEXbGkkYc1JtZ1oYGCvnlWE68V/8N.V2",
+  "userName" : "ravi924",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "sapna",
+  "password" : "$2a$12$V.oycsVRK5HT3xqghZnJBOU9EyzC6JPmQzzGRZfFa7ddNpqWejzru",
+  "userName" : "sapna_56",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "karan",
+  "password" : "$2a$12$Zlsh7/fb9RIgxCJpBtJGb.ZWulbg3oKViVEeA0jkNHTcPMg6K8s3K",
+  "userName" : "karan_king",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "tina",
+  "password" : "$2a$12$uUQdpzowkPxEGMSfF/nJ/OhApS.CBrQj3dbzyVxUQyPzGKjKyxAYq",
+  "userName" : "tina_21",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "Radhika",
+  "password" : "$2a$12$J5Zpniy8Pg0utiya/DRzTeRsY.FvYsCX5cUlZysKzNLC10iecyvVm",
+  "userName" : "Radh617",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "Krushna ",
+  "password" : "$2a$12$/2SHdm4WmdJ5Pb0tT8Qo8ONPGrgl.rJuBUrUFE8dLJLCHALKcICju",
+  "userName" : "Krus859",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "gagan",
+  "password" : "$2a$12$caA8z9YsO1KMTG4wMeBYmONmgUraZ0OOZqRSCVNTe.m3GJyXcm8Ai",
+  "userName" : "gaga131",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "haridas babhulkar",
+  "password" : "$2a$12$vwqEc5irQqANHoTKDYJvbuBdehaKACJ9yHNIBgH2B73aNKNt1Juva",
+  "userName" : "hari920",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "kiman",
+  "password" : "$2a$12$OprUXah1VsfV615frtInPe/eOn6/XfceUrVgAC40xVV1r9JPV23mO",
+  "userName" : "kima826",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "yt",
+  "password" : "$2a$12$gRgpNqSJIqVhzIi2NMM/xeD74rqOZwAjuTOg1vyNtUQh8GSiZP6fS",
+  "userName" : "yt856",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "Shashikala",
+  "password" : "$2a$12$GSwNQfdXGbLKLV.dOzfnTuOlAZueKypfdCVkboJXOJahGDhJYmDve",
+  "userName" : "Shas456",
+  "bookedTickets" : [ ]
+} ]

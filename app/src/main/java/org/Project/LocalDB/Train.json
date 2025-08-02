@@ -1,0 +1,301 @@
+[
+  {
+    "trainId" : "100001",
+    "source" : "Hiwarkhed",
+    "destination" : "Indore",
+    "stationAndTime" : [
+      {"station" : "Hiwarkhed",
+        "Time" : "00:01"
+      },
+      {"station" : "Akola",
+        "Time" : "02:015"
+      },
+      {"station" : "Nandura",
+        "Time" : "04:45"
+      },
+      {"station" : "Amravati",
+        "Time" : "08:00"
+      },
+      {"station" : "Indore",
+        "Time" : "10:11"
+      }
+    ]
+  },
+  {
+    "trainId" : "100201",
+    "source" : "Nagpur",
+    "destination" : "Amravati",
+    "stationAndTime" : [
+      {"station" : "Hiwarkhed",
+        "Time" : "00:01"
+      },
+
+      {"station" : "Nandura",
+        "Time" : "04:45"
+      },
+      {"station" : "Amravati",
+        "Time" : "08:00"
+      },
+      {"station" : "Indore",
+        "Time" : "10:11"
+      }
+    ]
+  },
+  {
+    "trainId" : "14857",
+    "source" : "Akot",
+    "destination" : "mumbai",
+    "stationAndTime" : [
+      {"station" : "Akot",
+        "Time" : "00:01"
+      },
+      {"station" : "Mumbai",
+        "Time" : "02:015"
+      },
+
+      {"station" : "Indore",
+        "Time" : "10:11"
+      }
+    ]
+  },
+  {
+    "trainId" : "124937",
+    "source" : "Akot",
+    "destination" : "mumbai",
+    "stationAndTime" : [
+      {"station" : "Akot",
+        "Time" : "00:01"
+      },
+      {"station" : "Mumbai",
+        "Time" : "02:015"
+      },
+
+      {"station" : "Indore",
+        "Time" : "10:11"
+      }
+    ]
+  },
+
+    {
+      "trainId": "300001",
+      "source": "Pune",
+      "destination": "Nagpur",
+      "stationAndTime": [
+        {"station": "Pune", "Time": "01:00"},
+        {"station": "Ahmednagar", "Time": "03:30"},
+        {"station": "Aurangabad", "Time": "06:00"},
+        {"station": "Nagpur", "Time": "10:00"}
+      ]
+    },
+    {
+      "trainId": "300002",
+      "source": "Nashik",
+      "destination": "Amravati",
+      "stationAndTime": [
+        {"station": "Nashik", "Time": "02:00"},
+        {"station": "Jalgaon", "Time": "04:30"},
+        {"station": "Akola", "Time": "07:00"},
+        {"station": "Amravati", "Time": "09:30"}
+      ]
+    },
+    {
+      "trainId": "300003",
+      "source": "Nagpur",
+      "destination": "Pune",
+      "stationAndTime": [
+        {"station": "Nagpur", "Time": "01:15"},
+        {"station": "Wardha", "Time": "03:00"},
+        {"station": "Manmad", "Time": "06:30"},
+        {"station": "Pune", "Time": "09:45"}
+      ]
+    },
+    {
+      "trainId": "300004",
+      "source": "Indore",
+      "destination": "Bhopal",
+      "stationAndTime": [
+        {"station": "Indore", "Time": "00:30"},
+        {"station": "Ujjain", "Time": "01:45"},
+        {"station": "Sehore", "Time": "03:30"},
+        {"station": "Bhopal", "Time": "05:00"}
+      ]
+    },
+    {
+      "trainId": "300005",
+      "source": "Bhopal",
+      "destination": "Mumbai",
+      "stationAndTime": [
+        {"station": "Bhopal", "Time": "01:00"},
+        {"station": "Khandwa", "Time": "03:15"},
+        {"station": "Nasik", "Time": "06:00"},
+        {"station": "Mumbai", "Time": "09:00"}
+      ]
+    },
+    {
+      "trainId": "300006",
+      "source": "Hyderabad",
+      "destination": "Nagpur",
+      "stationAndTime": [
+        {"station": "Hyderabad", "Time": "02:30"},
+        {"station": "Kazipet", "Time": "04:30"},
+        {"station": "Ballarshah", "Time": "07:00"},
+        {"station": "Nagpur", "Time": "09:00"}
+      ]
+    },
+    {
+      "trainId": "300007",
+      "source": "Delhi",
+      "destination": "Agra",
+      "stationAndTime": [
+        {"station": "Delhi", "Time": "00:10"},
+        {"station": "Faridabad", "Time": "01:00"},
+        {"station": "Mathura", "Time": "02:30"},
+        {"station": "Agra", "Time": "03:30"}
+      ]
+    },
+    {
+      "trainId": "300008",
+      "source": "Jaipur",
+      "destination": "Delhi",
+      "stationAndTime": [
+        {"station": "Jaipur", "Time": "02:00"},
+        {"station": "Alwar", "Time": "03:45"},
+        {"station": "Gurgaon", "Time": "05:30"},
+        {"station": "Delhi", "Time": "06:30"}
+      ]
+    },
+    {
+      "trainId": "300009",
+      "source": "Amritsar",
+      "destination": "Delhi",
+      "stationAndTime": [
+        {"station": "Amritsar", "Time": "01:30"},
+        {"station": "Jalandhar", "Time": "03:00"},
+        {"station": "Ambala", "Time": "05:00"},
+        {"station": "Delhi", "Time": "07:00"}
+      ]
+    },
+    {
+      "trainId": "300010",
+      "source": "Varanasi",
+      "destination": "Kolkata",
+      "stationAndTime": [
+        {"station": "Varanasi", "Time": "00:00"},
+        {"station": "Gaya", "Time": "03:00"},
+        {"station": "Asansol", "Time": "06:00"},
+        {"station": "Kolkata", "Time": "08:30"}
+      ]
+    },
+    {
+      "trainId": "300011",
+      "source": "Chennai",
+      "destination": "Bangalore",
+      "stationAndTime": [
+        {"station": "Chennai", "Time": "01:00"},
+        {"station": "Katpadi", "Time": "03:00"},
+        {"station": "Krishnarajapuram", "Time": "06:00"},
+        {"station": "Bangalore", "Time": "08:00"}
+      ]
+    },
+    {
+      "trainId": "300012",
+      "source": "Bangalore",
+      "destination": "Hyderabad",
+      "stationAndTime": [
+        {"station": "Bangalore", "Time": "01:00"},
+        {"station": "Kurnool", "Time": "03:45"},
+        {"station": "Mahbubnagar", "Time": "06:30"},
+        {"station": "Hyderabad", "Time": "08:00"}
+      ]
+    },
+    {
+      "trainId": "300013",
+      "source": "Surat",
+      "destination": "Ahmedabad",
+      "stationAndTime": [
+        {"station": "Surat", "Time": "01:00"},
+        {"station": "Vadodara", "Time": "03:00"},
+        {"station": "Anand", "Time": "05:00"},
+        {"station": "Ahmedabad", "Time": "06:30"}
+      ]
+    },
+    {
+      "trainId": "300014",
+      "source": "Ahmedabad",
+      "destination": "Rajkot",
+      "stationAndTime": [
+        {"station": "Ahmedabad", "Time": "01:00"},
+        {"station": "Surendranagar", "Time": "03:00"},
+        {"station": "Wankaner", "Time": "05:00"},
+        {"station": "Rajkot", "Time": "06:30"}
+      ]
+    },
+    {
+      "trainId": "300015",
+      "source": "Indore",
+      "destination": "Nagpur",
+      "stationAndTime": [
+        {"station": "Indore", "Time": "01:00"},
+        {"station": "Khandwa", "Time": "03:30"},
+        {"station": "Itarsi", "Time": "05:30"},
+        {"station": "Nagpur", "Time": "08:00"}
+      ]
+    },
+    {
+      "trainId": "300016",
+      "source": "Nagpur",
+      "destination": "Indore",
+      "stationAndTime": [
+        {"station": "Nagpur", "Time": "01:00"},
+        {"station": "Betul", "Time": "03:30"},
+        {"station": "Itarsi", "Time": "05:00"},
+        {"station": "Indore", "Time": "07:30"}
+      ]
+    },
+    {
+      "trainId": "300017",
+      "source": "Bhopal",
+      "destination": "Indore",
+      "stationAndTime": [
+        {"station": "Bhopal", "Time": "02:00"},
+        {"station": "Sehore", "Time": "03:15"},
+        {"station": "Ujjain", "Time": "05:30"},
+        {"station": "Indore", "Time": "07:00"}
+      ]
+    },
+    {
+      "trainId": "300018",
+      "source": "Nagpur",
+      "destination": "Mumbai",
+      "stationAndTime": [
+        {"station": "Nagpur", "Time": "00:00"},
+        {"station": "Akola", "Time": "03:00"},
+        {"station": "Nashik", "Time": "06:00"},
+        {"station": "Mumbai", "Time": "08:30"}
+      ]
+    },
+    {
+      "trainId": "300019",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "stationAndTime": [
+        {"station": "Delhi", "Time": "01:00"},
+        {"station": "Gurgaon", "Time": "02:00"},
+        {"station": "Alwar", "Time": "03:30"},
+        {"station": "Jaipur", "Time": "05:00"}
+      ]
+    },
+  {
+    "trainId": "300020",
+    "source": "Nagpur",
+    "destination": "Chennai",
+    "stationAndTime": [
+      {"station": "Nagpur", "Time": "01:00"},
+      {"station": "Ballarshah", "Time": "04:00"},
+      {"station": "Guntur", "Time": "07:00"},
+      {"station": "Chennai", "Time": "10:00"}
+    ]
+  }
+
+]
+
